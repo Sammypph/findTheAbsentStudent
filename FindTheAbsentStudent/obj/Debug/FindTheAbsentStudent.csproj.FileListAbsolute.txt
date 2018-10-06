@@ -1,0 +1,7 @@
+C:\Users\Oluwasanmi\documents\visual studio 2017\Projects\FindTheAbsentStudent\FindTheAbsentStudent\bin\Debug\FindTheAbsentStudent.exe.config
+C:\Users\Oluwasanmi\documents\visual studio 2017\Projects\FindTheAbsentStudent\FindTheAbsentStudent\bin\Debug\FindTheAbsentStudent.exe
+C:\Users\Oluwasanmi\documents\visual studio 2017\Projects\FindTheAbsentStudent\FindTheAbsentStudent\bin\Debug\FindTheAbsentStudent.pdb
+C:\Users\Oluwasanmi\documents\visual studio 2017\Projects\FindTheAbsentStudent\FindTheAbsentStudent\obj\Debug\FindTheAbsentStudent.csprojAssemblyReference.cache
+C:\Users\Oluwasanmi\documents\visual studio 2017\Projects\FindTheAbsentStudent\FindTheAbsentStudent\obj\Debug\FindTheAbsentStudent.csproj.CoreCompileInputs.cache
+C:\Users\Oluwasanmi\documents\visual studio 2017\Projects\FindTheAbsentStudent\FindTheAbsentStudent\obj\Debug\FindTheAbsentStudent.exe
+C:\Users\Oluwasanmi\documents\visual studio 2017\Projects\FindTheAbsentStudent\FindTheAbsentStudent\obj\Debug\FindTheAbsentStudent.pdb
